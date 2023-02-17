@@ -1,0 +1,18 @@
+body
+{
+    background-color: pink;
+    color: black;
+}
+
+#camera
+{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed black;
+}
+
+#Object_Names
+{
+    color: blueviolet;
+    width: 50%;
+}
